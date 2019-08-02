@@ -1,5 +1,5 @@
-layout: stacked
-style: light
+layout: sidebar
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -28,10 +28,10 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: LuisMX2211
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
@@ -47,12 +47,12 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
+  - name: Python
+    web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: Data Science
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
+  - name: Dart
+    web_url: https://github.com/topics/dart
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
